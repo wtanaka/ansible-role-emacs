@@ -170,16 +170,16 @@ galaxy_info:
   #  versions:
   #  - all
   #  - any
-  - name: Debian
-    versions:
+  #- name: Debian
+  #  versions:
   #  - all
   #  - etch
-    - jessie
+  #  - jessie
   #  - lenny
   #  - sid
   #  - squeeze
   #  - stretch
-    - wheezy
+  #  - wheezy
 
   galaxy_tags:
     # List tags for your role here, one per line. A tag is
