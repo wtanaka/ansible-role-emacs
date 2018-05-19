@@ -13,6 +13,13 @@ Example Playbook
       roles:
          - wtanaka.emacs
 
+### `emacs_should_shortcircuit`
+
+Default: True
+
+When True, this role short-circuits itself if a "emacs" is already in the path
+
+
 License
 -------
 
